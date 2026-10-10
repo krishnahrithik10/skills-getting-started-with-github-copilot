@@ -74,6 +74,12 @@ activities = {
         "schedule": "Tuesdays, 3:30 PM - 5:00 PM",
         "max_participants": 20,
         "participants": ["harper@mergington.edu", "henry@mergington.edu"]
+    },
+    "Math Olympiad": {
+        "description": "Solve challenging math problems and prepare for competitions",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 20,
+        "participants": []
     }
 }
 
